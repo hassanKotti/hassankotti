@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=century+gothic&size=25&duration=6000&center=true&vCenter=true&lines=Front-end+Developer;With+little+bit+of+Backend+knowledge;3%2B+Years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cairo&size=25&duration=6000&width=500&lines=Front-end+Developer;With+little+bit+of+Backend+knowledge;3%2B+Years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 **hassanKotti/hassankotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
