@@ -1,6 +1,6 @@
 ### Welcome to Hassan Kotti's profile! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cairo&size=25&duration=6000&color=AB4CF7&width=500&lines=Hi+I'm+Hassan+Kotti;I'm+a+front-end+developer;With+little+bit+of+Backend+knowledgeWith+little+bit+of+Backend+knowledgeWith+little+bit+of+Backend+knowledge;3%2B+Years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cairo&size=25&duration=6000&color=FA8B00&width=500&lines=Hi+I'm+Hassan+Kotti;I'm+a+front-end+developer;With+little+bit+of+Backend+knowledgeWith+little+bit+of+Backend+knowledgeWith+little+bit+of+Backend+knowledge;3%2B+Years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 
