@@ -13,12 +13,9 @@
 - 📫 How to reach me: 
   
   hkotti95@gmail.com
+  
+  https://img.shields.io/twitter/follow/Hassan_Kotti?style=social
 
-  [(https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)]
-  
-  
-  (https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)
-  
   [(https://wa.link/i8trss)](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 - ⚡ Fun fact: I Love Music
