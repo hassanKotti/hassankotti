@@ -12,7 +12,7 @@
 - 💬 Ask me about UI/UX & Front-end Development
 - 📫 How to reach me: hkotti95@gmail.com
 
-  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)  ![[WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://wa.link/i8trss)
+  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)  ![[WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/i8trss)
 
 - ⚡ Fun fact: I Love Music
 
