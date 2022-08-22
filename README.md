@@ -12,8 +12,9 @@
 - 💬 Ask me about UI/UX & Front-end Development
 - 📫 How to reach me: hkotti95@gmail.com
 - 
-  [Twitter](https://img.shields.io/twitter/follow/Hassan_Kotti?style=social). 
-  [WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) (https://wa.link/i8trss)
+  [Twitter](https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)
+  
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://wa.link/i8trss)]
 
 - ⚡ Fun fact: I Love Music
 
