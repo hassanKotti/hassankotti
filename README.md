@@ -14,7 +14,7 @@
   
   hkotti95@gmail.com
   
-  [https://img.shields.io/twitter/follow/Hassan_Kotti?style=social](https://img.shields.io/twitter/follow/Hassan_Kotti?style=for-the-badge)
+  [(https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)](https://img.shields.io/twitter/follow/Hassan_Kotti?style=for-the-badge)
 
   [Whatsapp](https://wa.link/i8trss)
 
