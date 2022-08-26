@@ -12,12 +12,11 @@
 - 💬 Ask me about UI/UX & Front-end Development
 - 📫 How to reach me: 
   
-  hkotti95@gmail.com
+  💌 hkotti95@gmail.com
   
   [![](https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)](https://img.shields.io/twitter/follow/Hassan_Kotti?style=for-the-badge)
 
 
-  [![](https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)](https://wa.link/i8trss)
   
 - ⚡ Fun fact: I Love Music
 
