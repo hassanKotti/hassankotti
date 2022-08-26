@@ -14,10 +14,11 @@
   
   hkotti95@gmail.com
   
-  [(https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)](https://img.shields.io/twitter/follow/Hassan_Kotti?style=for-the-badge)
+  [![](https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)](https://img.shields.io/twitter/follow/Hassan_Kotti?style=for-the-badge)
 
-  [Whatsapp]()
-  [![Whatsapp](https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)](https://wa.link/i8trss)
+
+  [![](https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)](https://wa.link/i8trss)
+  
 - ⚡ Fun fact: I Love Music
 
 
