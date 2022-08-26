@@ -16,8 +16,8 @@
   
   [(https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)](https://img.shields.io/twitter/follow/Hassan_Kotti?style=for-the-badge)
 
-  [Whatsapp](https://wa.link/i8trss)
-
+  [Whatsapp]()
+  [![Whatsapp](https://img.shields.io/twitter/follow/Hassan_Kotti?style=social)](https://wa.link/i8trss)
 - ⚡ Fun fact: I Love Music
 
 
